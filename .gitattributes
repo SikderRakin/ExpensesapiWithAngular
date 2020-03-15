@@ -59,3 +59,6 @@
 #*.RTF   diff=astextplain
 *.psd filter=lfs diff=lfs merge=lfs -text
 D:/Personal/test[[:space:]]code/ExpensesapiWithAngular/ExpensesClient filter=lfs diff=lfs merge=lfs -text
+/ExpensesClient filter=lfs diff=lfs merge=lfs -text
+/ExpensesClient filter=lfs diff=lfs merge=lfs -text
+D:/Personal/test[[:space:]]code/ExpensesapiWithAngular/ExpensesClient filter=lfs diff=lfs merge=lfs -text
